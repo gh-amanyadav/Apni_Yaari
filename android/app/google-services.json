@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353744294343",
+    "project_id": "apni-yaari-2e8c6",
+    "storage_bucket": "apni-yaari-2e8c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353744294343:android:9ac3db6b05257e356e89e2",
+        "android_client_info": {
+          "package_name": "com.example.apni_yaari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353744294343-r1jeb736s3lh8efibjodr1ph93a5hekv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apni_yaari",
+            "certificate_hash": "39c2716c35fa235e6d48f31e4473a8fbf608dbf1"
+          }
+        },
+        {
+          "client_id": "353744294343-a81mgvo19c9d9q507k2pcdot2b7muaj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0NqxE36noRzI3_xp7t0O7GLmI3AphXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353744294343-a81mgvo19c9d9q507k2pcdot2b7muaj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
